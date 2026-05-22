@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Milan 👋
 
-<!--
-**milanbudhathoki38/milanbudhathoki38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Arkansas State University who started in intermediate algebra and ended up with a math minor. I like problems that make me think.
 
-Here are some ideas to get you started:
+Currently building with **C++**, **JavaScript**, and **Next.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm up to
+- Improving my portfolio and learning responsive design
+- Sharpening data structures and algorithms
+- Looking for a summer internship
+
+## Tech I use
+`C++` `Python` `JavaScript` `React` `Next.js` `Tailwind CSS` `Git`
+
+## Find me
+🌐 [Portfolio](https://portfolio-delta-sandy-5ee88992ad.vercel.app)
+📧 milan.budhatho1@smail.astate.edu
+💼 [LinkedIn](https://www.linkedin.com/in/milan-budhathoki-8200673b9/)
