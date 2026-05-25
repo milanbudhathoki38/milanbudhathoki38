@@ -16,3 +16,11 @@ Currently building with **C++**, **JavaScript**, and **Next.js**.
 🌐 [Portfolio](https://portfolio-delta-sandy-5ee88992ad.vercel.app)
 📧 milan.budhatho1@smail.astate.edu
 💼 [LinkedIn](https://www.linkedin.com/in/milan-budhathoki-8200673b9/)
+
+## GitHub Stats
+
+![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanbudhathoki38&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milanbudhathoki38&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=milanbudhathoki38&theme=default&hide_border=true)
