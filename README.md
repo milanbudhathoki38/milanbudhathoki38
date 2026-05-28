@@ -19,8 +19,8 @@ Currently building with **C++**, **JavaScript**, and **Next.js**.
 
 ## GitHub Stats
 
-![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanbudhathoki38&show_icons=true&hide_border=true&rank_icon=github)
+![Milan's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milanbudhathoki38&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milanbudhathoki38&layout=compact&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milanbudhathoki38&theme=default)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=milanbudhathoki38&theme=default&hide_border=true)
