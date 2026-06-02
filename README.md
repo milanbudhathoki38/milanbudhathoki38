@@ -23,4 +23,4 @@ Currently building with **C++**, **JavaScript**, and **Next.js**.
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milanbudhathoki38&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=milanbudhathoki38&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=milanbudhathoki38&theme=dark&hide_border=true)
