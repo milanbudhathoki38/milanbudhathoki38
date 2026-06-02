@@ -18,9 +18,14 @@ Currently building with **C++**, **JavaScript**, and **Next.js**.
 💼 [LinkedIn](https://www.linkedin.com/in/milan-budhathoki-8200673b9/)
 
 ## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=milanbudhathoki38&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Milan's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milanbudhathoki38&theme=default)
+<p align="center">
+  <img src="https://github-readme-streak-stats-seven-rust.vercel.app/?user=milanbudhathoki38&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milanbudhathoki38&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats-seven-rust.vercel.app/?user=milanbudhathoki38&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanbudhathoki38&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
