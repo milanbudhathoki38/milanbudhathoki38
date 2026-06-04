@@ -8,6 +8,7 @@ Currently building with **C++**, **JavaScript**, and **Next.js**.
 - Improving my portfolio and learning responsive design
 - Sharpening data structures and algorithms
 - Looking for a summer internship
+- Learning Python after c++
 
 ## Tech I use
 `C++` `Python` `JavaScript` `React` `Next.js` `Tailwind CSS` `Git`
