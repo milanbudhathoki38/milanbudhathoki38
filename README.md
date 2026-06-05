@@ -7,7 +7,7 @@ Currently building with **C++**, **Python**, **Next.js**, and **Javasript**.
 ## What I'm up to
 - Improving my portfolio and learning responsive design
 - Sharpening data structures and algorithms
-- Looking for a summer internship
+- Looking for a summer internships
 - Learning Python after c++
 
 ## Tech I use
