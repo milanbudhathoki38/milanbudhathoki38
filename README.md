@@ -2,7 +2,7 @@
 
 CS student at Arkansas State University who started in intermediate algebra and ended up with a math minor. I like problems that make me think.
 
-Currently building with **C++**, **JavaScript**, and **Next.js**.
+Currently building with **C++**, **Python**, **Next.js**, and **Javasript**.
 
 ## What I'm up to
 - Improving my portfolio and learning responsive design
