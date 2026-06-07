@@ -22,9 +22,9 @@ Currently building with **C++**, **Python**, **Next.js**, and **JavaScript**.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milanbudhathoki38&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milanbudhathoki38&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanbudhathoki38&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milanbudhathoki38&theme=radical" />
 </p>
