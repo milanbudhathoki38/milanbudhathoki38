@@ -18,13 +18,13 @@ Currently building with **C++**, **Python**, **Next.js**, and **JavaScript**.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-seven-rust.vercel.app/?user=milanbudhathoki38&theme=radical&hide_border=true&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milanbudhathoki38&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milanbudhathoki38&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milanbudhathoki38&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milanbudhathoki38&theme=radical" />
+  <img src="https://github-readme-streak-stats-seven-rust.vercel.app/?user=milanbudhathoki38&theme=tokyonight&hide_border=true&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
