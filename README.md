@@ -13,6 +13,7 @@ Currently building with **C++**, **Python**, **Next.js**, and **JavaScript**.
 ## Find me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-delta-sandy-5ee88992ad.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-budhathoki-8200673b9/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/milanbudhathoki38/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milan.budhatho1@smail.astate.edu)
 
 ## GitHub Stats
